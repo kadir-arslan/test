@@ -1,0 +1,4 @@
+
+git init --> git o dosyada tanımlar
+
+
