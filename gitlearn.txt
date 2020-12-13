@@ -1,4 +1,15 @@
 
 git init --> git o dosyada tanımlar
 
+git status --> açıklar
+
+git add file name -> dosyaları stageing bölgesine alır
+
+git commit -m "mesaj" -> stageing bölgesindeki kabul eder
+
+git commit --> editoru açar ve uzun mesaj yazmanı sağlar.
+
+git commit -am --> stageing olmadan commit etmeye yarar
+
+ 
 
