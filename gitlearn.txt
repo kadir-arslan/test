@@ -31,4 +31,4 @@ git restore --staged filename --> stage bölgesinden cıkarır
 
 git clean -fd --> takip edilmeyen dosya ce klasorleri siler
 
-
+testetsetsets
