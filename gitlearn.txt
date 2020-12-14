@@ -37,4 +37,4 @@ git chekout -b branchName --> yei branch oluşturup o branche gider
 
 git merge branchName --> branchi birleştirir
 
-git push -u origin main --> clouddaki main branchıne pushlar
+git push origin main --> clouddaki main branchıne pushlar
