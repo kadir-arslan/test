@@ -11,5 +11,24 @@ git commit --> editoru açar ve uzun mesaj yazmanı sağlar.
 
 git commit -am --> stageing olmadan commit etmeye yarar
 
- 
+git rm filename --> dosyayı siler
+
+git rm --cached -r filename --> dosyayı  stageing bölgesinden siler
+
+git mv filename yeniname --> dosyanın ismini değitir
+
+takip edilmesini istemediğimiz dosyalar icin .gitignore dosyası oluşturulur
+
+git diff --staged --> değişimleri gösterir
+
+git log --> commitleri listeier
+
+git show commitİd / HEAD~gerigitmekistediğincommitsayısı --> commite yapılan değişiklikleri görmeyi sağlar
+
+git ls-tree commitİd / HEAD~gerigitmekistediğincommitsayısı --> commitdeki dosyaları görmeyi sağlar
+
+git restore --staged filename --> stage bölgesinden cıkarır
+
+git clean -fd --> takip edilmeyen dosya ce klasorleri siler
+
 
