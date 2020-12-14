@@ -31,4 +31,9 @@ git restore --staged filename --> stage bölgesinden cıkarır
 
 git clean -fd --> takip edilmeyen dosya ce klasorleri siler
 
-testetsetsets
+git chekout id/ branch --> commite gider
+
+git chekout -b branchName --> yei branch oluşturup o branche gider
+
+git merge branchName --> branchi birleştirir
+
