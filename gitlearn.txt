@@ -33,6 +33,6 @@ git clean -fd --> takip edilmeyen dosya ce klasorleri siler
 
 git chekout id/ branch --> commite gider
 
-git chekout -b testing --> yei branch oluşturup o branche gider
+git chekout -b branchName --> yei branch oluşturup o branche gider
 
 
